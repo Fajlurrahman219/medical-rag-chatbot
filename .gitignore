@@ -1,0 +1,16 @@
+
+# Private credentials
+.env
+.env.*
+
+# Local vector database
+vectorstore/
+
+# Local medical source documents
+data/*.pdf
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
